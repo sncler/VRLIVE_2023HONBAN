@@ -299,13 +299,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 30613196}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.164, y: 6.877, z: 14.167}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.5682497, y: 0.23608494, z: 27.58698}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_Father: {fileID: 569840429}
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &59705207
 PrefabInstance:
@@ -649,7 +649,7 @@ GameObject:
   - component: {fileID: 237509982}
   - component: {fileID: 237509981}
   m_Layer: 0
-  m_Name: Point Light
+  m_Name: "\u30E9\u30A4\u30D6\u7167\u660E"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -730,7 +730,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 76.787, y: -74.468, z: -74.066}
 --- !u!1001 &253436793
 PrefabInstance:
@@ -1195,7 +1195,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 165239a848679d541a928dcdd1c4d671, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.4303794
+      value: -1.58
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 165239a848679d541a928dcdd1c4d671, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1203,7 +1203,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 165239a848679d541a928dcdd1c4d671, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.157855
+      value: -2.163
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 165239a848679d541a928dcdd1c4d671, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1325,7 +1325,7 @@ GameObject:
   - component: {fileID: 396101568}
   - component: {fileID: 396101567}
   m_Layer: 0
-  m_Name: boxcor1 (1)
+  m_Name: "\u30B4\u30DF\u7BB1\uFF12"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1357,7 +1357,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &411700040
 GameObject:
@@ -1403,7 +1403,7 @@ GameObject:
   - component: {fileID: 420416750}
   - component: {fileID: 420416749}
   m_Layer: 0
-  m_Name: kabe_cor1
+  m_Name: "\u30E9\u30A4\u30D6\u5074\u58C1"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1430,7 +1430,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 420416748}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.16, y: 4.73, z: 9.98}
+  m_LocalPosition: {x: -0.05, y: 4.73, z: 9.98}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1516,7 +1516,7 @@ GameObject:
   - component: {fileID: 470289252}
   - component: {fileID: 470289251}
   m_Layer: 0
-  m_Name: Cylinder
+  m_Name: "\u6C34\u305F\u307E\u308A\uFF11"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1975,7 +1975,7 @@ GameObject:
   - component: {fileID: 569738869}
   - component: {fileID: 569738868}
   m_Layer: 0
-  m_Name: kaidan_kabe1 (1)
+  m_Name: "\u9244\u9AA8\uFF11"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2007,7 +2007,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &569840428
 GameObject:
@@ -2038,13 +2038,13 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1918266954}
-  - {fileID: 872784966}
   - {fileID: 762494133}
+  - {fileID: 872784966}
   - {fileID: 970616215}
   - {fileID: 1033859414}
-  - {fileID: 2107123475}
-  - {fileID: 307980115}
   - {fileID: 658442101}
+  - {fileID: 307980115}
+  - {fileID: 2107123475}
   - {fileID: 1649842158}
   - {fileID: 1626882765}
   - {fileID: 650214404}
@@ -2054,6 +2054,7 @@ Transform:
   - {fileID: 1326421767}
   - {fileID: 546642864}
   - {fileID: 1804894238}
+  - {fileID: 30613198}
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2477,7 +2478,7 @@ GameObject:
   - component: {fileID: 658442101}
   - component: {fileID: 658442102}
   m_Layer: 0
-  m_Name: kaidan_cor8
+  m_Name: kaidan_cor6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2496,7 +2497,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 569840429}
-  m_RootOrder: 7
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &658442102
 BoxCollider:
@@ -2720,7 +2721,7 @@ GameObject:
   - component: {fileID: 762494133}
   - component: {fileID: 762494134}
   m_Layer: 0
-  m_Name: kaidan_cor3
+  m_Name: kaidan_cor2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2739,7 +2740,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 569840429}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: -33.449, y: 0, z: 0}
 --- !u!65 &762494134
 BoxCollider:
@@ -2875,7 +2876,7 @@ GameObject:
   - component: {fileID: 872784966}
   - component: {fileID: 872784967}
   m_Layer: 0
-  m_Name: kaidan_cor2
+  m_Name: kaidan_cor3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2894,7 +2895,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 569840429}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 32.714, y: 0, z: 0}
 --- !u!65 &872784967
 BoxCollider:
@@ -2997,7 +2998,7 @@ GameObject:
   - component: {fileID: 967619686}
   - component: {fileID: 967619685}
   m_Layer: 0
-  m_Name: boxcor1
+  m_Name: "\u30B4\u30DF\u7BB1\uFF11"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3029,7 +3030,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &970616214
 GameObject:
@@ -3142,6 +3143,25 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: e43c346b5c020f84a812def3d40fe20e, type: 3}
   m_PrefabInstance: {fileID: 977236954}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1004594790 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 165239a848679d541a928dcdd1c4d671, type: 3}
+  m_PrefabInstance: {fileID: 368793527}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1004594793
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1004594790}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 0
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 3613567641014311022, guid: 165239a848679d541a928dcdd1c4d671, type: 3}
 --- !u!1 &1033859413
 GameObject:
   m_ObjectHideFlags: 0
@@ -3742,7 +3762,7 @@ GameObject:
   - component: {fileID: 1303552455}
   - component: {fileID: 1303552454}
   m_Layer: 0
-  m_Name: kabe
+  m_Name: "\u5927\u901A\u308A\u58C1"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3774,7 +3794,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1326421766
 GameObject:
@@ -3917,7 +3937,7 @@ GameObject:
   - component: {fileID: 1495773975}
   - component: {fileID: 1495773974}
   m_Layer: 0
-  m_Name: kaidan_kabe1 (2)
+  m_Name: "\u9244\u9AA8\uFF12"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3949,7 +3969,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1514366566
 PrefabInstance:
@@ -4250,7 +4270,7 @@ GameObject:
   - component: {fileID: 1714011032}
   - component: {fileID: 1714011031}
   m_Layer: 0
-  m_Name: Cylinder (1)
+  m_Name: "\u6C34\u305F\u307E\u308A\uFF12"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4333,7 +4353,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1715818561
 GameObject:
@@ -4346,7 +4366,7 @@ GameObject:
   - component: {fileID: 1715818563}
   - component: {fileID: 1715818562}
   m_Layer: 0
-  m_Name: kabe (1)
+  m_Name: "\u3046\u3089\u58C1"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4363,7 +4383,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 50, y: 10, z: 0}
+  m_Size: {x: 50, y: 15, z: 0}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!4 &1715818563
 Transform:
@@ -4378,7 +4398,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &1753649485 stripped
 GameObject:
@@ -4484,7 +4504,7 @@ GameObject:
   - component: {fileID: 1804894238}
   - component: {fileID: 1804894239}
   m_Layer: 0
-  m_Name: kaidan_cor12 (1)
+  m_Name: kaidan_cor17
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4693,6 +4713,51 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d4a729ae3f80437b826f95e71f9c942, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1964425267
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1964425269}
+  - component: {fileID: 1964425268}
+  m_Layer: 0
+  m_Name: "\u30DF\u30AF\u3092\u5B88\u308B\u58C1"
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!65 &1964425268
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1964425267}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 8, y: 10.899013, z: 17.572124}
+  m_Center: {x: 0, y: 1.4495063, z: -0.17025757}
+--- !u!4 &1964425269
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1964425267}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.824, y: 1.8760808, z: 1.562}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2066117895
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4836,7 +4901,7 @@ GameObject:
   - component: {fileID: 2107123475}
   - component: {fileID: 2107123476}
   m_Layer: 0
-  m_Name: kaidan_cor6
+  m_Name: kaidan_cor8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4855,7 +4920,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 569840429}
-  m_RootOrder: 5
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &2107123476
 BoxCollider:
