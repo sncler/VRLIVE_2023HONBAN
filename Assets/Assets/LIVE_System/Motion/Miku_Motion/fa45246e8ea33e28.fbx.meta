@@ -1,29 +1,14 @@
 fileFormatVersion: 2
-guid: a3a14be2e5f149041abb89d65d98eb67
+guid: 979502f2dfcba674db2ddc80ac53cfbf
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable:
   - first:
-      74: 9107724963715234176
-    second: Middle Proximal.L|Middle Proximal.L|Armature|Armature|BakeActio
+      74: 2391009328999529272
+    second: "\u30AE\u30BF\u30FCAction"
   - first:
-      74: -2737621890591929121
-    second: Action.002
-  - first:
-      74: 8669530494352105650
-    second: Middle Proximal.L|Action.001
-  - first:
-      74: -3532855778708919285
-    second: Middle Proximal.L|Armature|Armature|BakeAction
-  - first:
-      74: -7048000123142844429
-    second: Middle Proximal.L|Middle Proximal.L|Middle Proximal.L|Armature|Armature|BakeActio
-  - first:
-      74: 6229733395352460549
-    second: Middle Proximal.L|Middle Proximal.L|Middle Proximal.L|BakeAction
-  - first:
-      74: -5312323041134609607
-    second: "Middle Proximal.L|\u30AE\u30BF\u30FCAction"
+      74: 7953673086254507378
+    second: "\u30AE\u30BF\u30FC|\u30AE\u30BF\u30FCAction"
   externalObjects: {}
   materials:
     materialImportMode: 2
@@ -45,7 +30,7 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 3
+    animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -116,7 +101,7 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-  animationType: 3
+  animationType: 2
   humanoidOversampling: 1
   avatarSetup: 1
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
