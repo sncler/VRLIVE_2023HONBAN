@@ -1630,7 +1630,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 420416748}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.07, y: 4.73, z: 9.98}
+  m_LocalPosition: {x: -1.55, y: 4.73, z: 9.98}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5728,7 +5728,7 @@ Transform:
   m_GameObject: {fileID: 1689671553}
   m_LocalRotation: {x: -0, y: -0.15302028, z: -0, w: 0.988223}
   m_LocalPosition: {x: -12.3, y: 5, z: -21.07}
-  m_LocalScale: {x: 12.621638, y: 3.0486398, z: 1.0900403}
+  m_LocalScale: {x: 12.621638, y: 300, z: 1.0900403}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1316294563}
@@ -6203,6 +6203,25 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -5586577965533245513, guid: a5a851ff797ba8441ab2bff276e532ac, type: 3}
+--- !u!1 &1867526540 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e998fa7a54e00f1469b23d0ff41f85d6, type: 3}
+  m_PrefabInstance: {fileID: 1086016123}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1867526544
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1867526540}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -6907305240118482234, guid: e998fa7a54e00f1469b23d0ff41f85d6, type: 3}
 --- !u!114 &1907060619
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16461,7 +16480,12 @@ Animator:
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
-  m_WarningMessage: 
+  m_WarningMessage: "\nBinding warning: Some generic clip(s) animate transforms that
+    are already bound by a Humanoid avatar. These transforms can only be changed
+    by Humanoid clips.\n\tTransform 'Middle Intermediate.R'\n\tTransform 'Neck'\n\tTransform
+    'Lower Arm.R'\n\tTransform 'Little Distal.R'\n\tTransform 'Index Distal.R'\n\tTransform
+    'Little Proximal.L'\n\tTransform 'Index Proximal.R'\n\tTransform 'Lower Leg.R'\n\tTransform
+    'Upper Arm.L'\n\tTransform 'Little Intermediate.L'\n\tand more ..."
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
