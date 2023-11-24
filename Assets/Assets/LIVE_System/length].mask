@@ -7,5 +7,1083 @@ AvatarMask:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: length]
-  m_Mask: 00000000010000000000000001000000010000000000000000000000000000000000000000000000000000000000000000000000
-  m_Elements: []
+  m_Mask: 01000000000000000000000001000000000000000000000000000000000000000000000001000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Hips
+    m_Weight: 1
+  - m_Path: Hips/Chain
+    m_Weight: 1
+  - m_Path: Hips/Chain/Chain_end
+    m_Weight: 1
+  - m_Path: Hips/Chain/Chain_end/Chain_end_end
+    m_Weight: 1
+  - m_Path: Hips/Chain/Chain_end/Chain_end_end/Chain_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.A.001
+    m_Weight: 1
+  - m_Path: Hips/Skirt.A.001/Skirt.A.002
+    m_Weight: 1
+  - m_Path: Hips/Skirt.A.001/Skirt.A.002/Skirt.A.003
+    m_Weight: 1
+  - m_Path: Hips/Skirt.A.001/Skirt.A.002/Skirt.A.003/Skirt.A.004
+    m_Weight: 1
+  - m_Path: Hips/Skirt.A.001/Skirt.A.002/Skirt.A.003/Skirt.A.004/Skirt.A.004_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.A.001/Skirt.A.002/Skirt.A.003/Skirt.A.004/Skirt.A.004_end/Skirt.A.004_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.A.001/Skirt.A.002/Skirt.A.003/Skirt.A.004/Skirt.A.004_end/Skirt.A.004_end_end/Skirt.A.004_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.B.001.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.B.001.L/Skirt.B.002.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.B.001.L/Skirt.B.002.L/Skirt.B.003.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.B.001.L/Skirt.B.002.L/Skirt.B.003.L/Skirt.B.004.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.B.001.L/Skirt.B.002.L/Skirt.B.003.L/Skirt.B.004.L/Skirt.B.004.L_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.B.001.L/Skirt.B.002.L/Skirt.B.003.L/Skirt.B.004.L/Skirt.B.004.L_end/Skirt.B.004.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.B.001.L/Skirt.B.002.L/Skirt.B.003.L/Skirt.B.004.L/Skirt.B.004.L_end/Skirt.B.004.L_end_end/Skirt.B.004.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.B.001.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.B.001.R/Skirt.B.002.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.B.001.R/Skirt.B.002.R/Skirt.B.003.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.B.001.R/Skirt.B.002.R/Skirt.B.003.R/Skirt.B.004.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.B.001.R/Skirt.B.002.R/Skirt.B.003.R/Skirt.B.004.R/Skirt.B.004.R_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.B.001.R/Skirt.B.002.R/Skirt.B.003.R/Skirt.B.004.R/Skirt.B.004.R_end/Skirt.B.004.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.B.001.R/Skirt.B.002.R/Skirt.B.003.R/Skirt.B.004.R/Skirt.B.004.R_end/Skirt.B.004.R_end_end/Skirt.B.004.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.C.001.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.C.001.L/Skirt.C.002.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.C.001.L/Skirt.C.002.L/Skirt.C.003.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.C.001.L/Skirt.C.002.L/Skirt.C.003.L/Skirt.C.004.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.C.001.L/Skirt.C.002.L/Skirt.C.003.L/Skirt.C.004.L/Skirt.C.004.L_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.C.001.L/Skirt.C.002.L/Skirt.C.003.L/Skirt.C.004.L/Skirt.C.004.L_end/Skirt.C.004.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.C.001.L/Skirt.C.002.L/Skirt.C.003.L/Skirt.C.004.L/Skirt.C.004.L_end/Skirt.C.004.L_end_end/Skirt.C.004.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.C.001.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.C.001.R/Skirt.C.002.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.C.001.R/Skirt.C.002.R/Skirt.C.003.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.C.001.R/Skirt.C.002.R/Skirt.C.003.R/Skirt.C.004.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.C.001.R/Skirt.C.002.R/Skirt.C.003.R/Skirt.C.004.R/Skirt.C.004.R_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.C.001.R/Skirt.C.002.R/Skirt.C.003.R/Skirt.C.004.R/Skirt.C.004.R_end/Skirt.C.004.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.C.001.R/Skirt.C.002.R/Skirt.C.003.R/Skirt.C.004.R/Skirt.C.004.R_end/Skirt.C.004.R_end_end/Skirt.C.004.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.D.001.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.D.001.L/Skirt.D.002.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.D.001.L/Skirt.D.002.L/Skirt.D.003.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.D.001.L/Skirt.D.002.L/Skirt.D.003.L/Skirt.D.004.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.D.001.L/Skirt.D.002.L/Skirt.D.003.L/Skirt.D.004.L/Skirt.D.004.L_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.D.001.L/Skirt.D.002.L/Skirt.D.003.L/Skirt.D.004.L/Skirt.D.004.L_end/Skirt.D.004.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.D.001.L/Skirt.D.002.L/Skirt.D.003.L/Skirt.D.004.L/Skirt.D.004.L_end/Skirt.D.004.L_end_end/Skirt.D.004.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.D.001.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.D.001.R/Skirt.D.002.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.D.001.R/Skirt.D.002.R/Skirt.D.003.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.D.001.R/Skirt.D.002.R/Skirt.D.003.R/Skirt.D.004.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.D.001.R/Skirt.D.002.R/Skirt.D.003.R/Skirt.D.004.R/Skirt.D.004.R_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.D.001.R/Skirt.D.002.R/Skirt.D.003.R/Skirt.D.004.R/Skirt.D.004.R_end/Skirt.D.004.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.D.001.R/Skirt.D.002.R/Skirt.D.003.R/Skirt.D.004.R/Skirt.D.004.R_end/Skirt.D.004.R_end_end/Skirt.D.004.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.E.001.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.E.001.L/Skirt.E.002.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.E.001.L/Skirt.E.002.L/Skirt.E.003.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.E.001.L/Skirt.E.002.L/Skirt.E.003.L/Skirt.E.004.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.E.001.L/Skirt.E.002.L/Skirt.E.003.L/Skirt.E.004.L/Skirt.E.004.L_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.E.001.L/Skirt.E.002.L/Skirt.E.003.L/Skirt.E.004.L/Skirt.E.004.L_end/Skirt.E.004.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.E.001.L/Skirt.E.002.L/Skirt.E.003.L/Skirt.E.004.L/Skirt.E.004.L_end/Skirt.E.004.L_end_end/Skirt.E.004.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.E.001.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.E.001.R/Skirt.E.002.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.E.001.R/Skirt.E.002.R/Skirt.E.003.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.E.001.R/Skirt.E.002.R/Skirt.E.003.R/Skirt.E.004.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.E.001.R/Skirt.E.002.R/Skirt.E.003.R/Skirt.E.004.R/Skirt.E.004.R_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.E.001.R/Skirt.E.002.R/Skirt.E.003.R/Skirt.E.004.R/Skirt.E.004.R_end/Skirt.E.004.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.E.001.R/Skirt.E.002.R/Skirt.E.003.R/Skirt.E.004.R/Skirt.E.004.R_end/Skirt.E.004.R_end_end/Skirt.E.004.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.F.001.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.F.001.L/Skirt.F.002.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.F.001.L/Skirt.F.002.L/Skirt.F.003.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.F.001.L/Skirt.F.002.L/Skirt.F.003.L/Skirt.F.004.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.F.001.L/Skirt.F.002.L/Skirt.F.003.L/Skirt.F.004.L/Skirt.F.004.L_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.F.001.L/Skirt.F.002.L/Skirt.F.003.L/Skirt.F.004.L/Skirt.F.004.L_end/Skirt.F.004.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.F.001.L/Skirt.F.002.L/Skirt.F.003.L/Skirt.F.004.L/Skirt.F.004.L_end/Skirt.F.004.L_end_end/Skirt.F.004.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.F.001.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.F.001.R/Skirt.F.002.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.F.001.R/Skirt.F.002.R/Skirt.F.003.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.F.001.R/Skirt.F.002.R/Skirt.F.003.R/Skirt.F.004.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.F.001.R/Skirt.F.002.R/Skirt.F.003.R/Skirt.F.004.R/Skirt.F.004.R_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.F.001.R/Skirt.F.002.R/Skirt.F.003.R/Skirt.F.004.R/Skirt.F.004.R_end/Skirt.F.004.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.F.001.R/Skirt.F.002.R/Skirt.F.003.R/Skirt.F.004.R/Skirt.F.004.R_end/Skirt.F.004.R_end_end/Skirt.F.004.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.G.001.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.G.001.L/Skirt.G.002.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.G.001.L/Skirt.G.002.L/Skirt.G.003.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.G.001.L/Skirt.G.002.L/Skirt.G.003.L/Skirt.G.004.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.G.001.L/Skirt.G.002.L/Skirt.G.003.L/Skirt.G.004.L/Skirt.G.004.L_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.G.001.L/Skirt.G.002.L/Skirt.G.003.L/Skirt.G.004.L/Skirt.G.004.L_end/Skirt.G.004.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.G.001.L/Skirt.G.002.L/Skirt.G.003.L/Skirt.G.004.L/Skirt.G.004.L_end/Skirt.G.004.L_end_end/Skirt.G.004.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.G.001.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.G.001.R/Skirt.G.002.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.G.001.R/Skirt.G.002.R/Skirt.G.003.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.G.001.R/Skirt.G.002.R/Skirt.G.003.R/Skirt.G.004.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.G.001.R/Skirt.G.002.R/Skirt.G.003.R/Skirt.G.004.R/Skirt.G.004.R_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.G.001.R/Skirt.G.002.R/Skirt.G.003.R/Skirt.G.004.R/Skirt.G.004.R_end/Skirt.G.004.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.G.001.R/Skirt.G.002.R/Skirt.G.003.R/Skirt.G.004.R/Skirt.G.004.R_end/Skirt.G.004.R_end_end/Skirt.G.004.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.H.001.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.H.001.L/Skirt.H.002.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.H.001.L/Skirt.H.002.L/Skirt.H.003.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.H.001.L/Skirt.H.002.L/Skirt.H.003.L/Skirt.H.004.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.H.001.L/Skirt.H.002.L/Skirt.H.003.L/Skirt.H.004.L/Skirt.H.004.L_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.H.001.L/Skirt.H.002.L/Skirt.H.003.L/Skirt.H.004.L/Skirt.H.004.L_end/Skirt.H.004.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.H.001.L/Skirt.H.002.L/Skirt.H.003.L/Skirt.H.004.L/Skirt.H.004.L_end/Skirt.H.004.L_end_end/Skirt.H.004.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.H.001.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.H.001.R/Skirt.H.002.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.H.001.R/Skirt.H.002.R/Skirt.H.003.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.H.001.R/Skirt.H.002.R/Skirt.H.003.R/Skirt.H.004.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.H.001.R/Skirt.H.002.R/Skirt.H.003.R/Skirt.H.004.R/Skirt.H.004.R_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.H.001.R/Skirt.H.002.R/Skirt.H.003.R/Skirt.H.004.R/Skirt.H.004.R_end/Skirt.H.004.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.H.001.R/Skirt.H.002.R/Skirt.H.003.R/Skirt.H.004.R/Skirt.H.004.R_end/Skirt.H.004.R_end_end/Skirt.H.004.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.I.001.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.I.001.L/Skirt.I.002.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.I.001.L/Skirt.I.002.L/Skirt.I.003.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.I.001.L/Skirt.I.002.L/Skirt.I.003.L/Skirt.I.004.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.I.001.L/Skirt.I.002.L/Skirt.I.003.L/Skirt.I.004.L/Skirt.I.004.L_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.I.001.L/Skirt.I.002.L/Skirt.I.003.L/Skirt.I.004.L/Skirt.I.004.L_end/Skirt.I.004.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.I.001.L/Skirt.I.002.L/Skirt.I.003.L/Skirt.I.004.L/Skirt.I.004.L_end/Skirt.I.004.L_end_end/Skirt.I.004.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.I.001.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.I.001.R/Skirt.I.002.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.I.001.R/Skirt.I.002.R/Skirt.I.003.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.I.001.R/Skirt.I.002.R/Skirt.I.003.R/Skirt.I.004.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.I.001.R/Skirt.I.002.R/Skirt.I.003.R/Skirt.I.004.R/Skirt.I.004.R_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.I.001.R/Skirt.I.002.R/Skirt.I.003.R/Skirt.I.004.R/Skirt.I.004.R_end/Skirt.I.004.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.I.001.R/Skirt.I.002.R/Skirt.I.003.R/Skirt.I.004.R/Skirt.I.004.R_end/Skirt.I.004.R_end_end/Skirt.I.004.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.J.001.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.J.001.L/Skirt.J.002.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.J.001.L/Skirt.J.002.L/Skirt.J.003.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.J.001.L/Skirt.J.002.L/Skirt.J.003.L/Skirt.J.004.L
+    m_Weight: 1
+  - m_Path: Hips/Skirt.J.001.L/Skirt.J.002.L/Skirt.J.003.L/Skirt.J.004.L/Skirt.J.004.L_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.J.001.L/Skirt.J.002.L/Skirt.J.003.L/Skirt.J.004.L/Skirt.J.004.L_end/Skirt.J.004.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.J.001.L/Skirt.J.002.L/Skirt.J.003.L/Skirt.J.004.L/Skirt.J.004.L_end/Skirt.J.004.L_end_end/Skirt.J.004.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.J.001.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.J.001.R/Skirt.J.002.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.J.001.R/Skirt.J.002.R/Skirt.J.003.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.J.001.R/Skirt.J.002.R/Skirt.J.003.R/Skirt.J.004.R
+    m_Weight: 1
+  - m_Path: Hips/Skirt.J.001.R/Skirt.J.002.R/Skirt.J.003.R/Skirt.J.004.R/Skirt.J.004.R_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.J.001.R/Skirt.J.002.R/Skirt.J.003.R/Skirt.J.004.R/Skirt.J.004.R_end/Skirt.J.004.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.J.001.R/Skirt.J.002.R/Skirt.J.003.R/Skirt.J.004.R/Skirt.J.004.R_end/Skirt.J.004.R_end_end/Skirt.J.004.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.K.001
+    m_Weight: 1
+  - m_Path: Hips/Skirt.K.001/Skirt.K.002
+    m_Weight: 1
+  - m_Path: Hips/Skirt.K.001/Skirt.K.002/Skirt.K.003
+    m_Weight: 1
+  - m_Path: Hips/Skirt.K.001/Skirt.K.002/Skirt.K.003/Skirt.K.004
+    m_Weight: 1
+  - m_Path: Hips/Skirt.K.001/Skirt.K.002/Skirt.K.003/Skirt.K.004/Skirt.K.004_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.K.001/Skirt.K.002/Skirt.K.003/Skirt.K.004/Skirt.K.004_end/Skirt.K.004_end_end
+    m_Weight: 1
+  - m_Path: Hips/Skirt.K.001/Skirt.K.002/Skirt.K.003/Skirt.K.004/Skirt.K.004_end/Skirt.K.004_end_end/Skirt.K.004_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.001
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.001/FrontHair.001_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.001/FrontHair.001_end/FrontHair.001_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.001/FrontHair.001_end/FrontHair.001_end_end/FrontHair.001_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.002
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.002/FrontHair.002_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.002/FrontHair.002_end/FrontHair.002_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.002/FrontHair.002_end/FrontHair.002_end_end/FrontHair.002_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.003
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.003/FrontHair.003_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.003/FrontHair.003_end/FrontHair.003_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.003/FrontHair.003_end/FrontHair.003_end_end/FrontHair.003_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.004
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.004/FrontHair.004_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.004/FrontHair.004_end/FrontHair.004_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.004/FrontHair.004_end/FrontHair.004_end_end/FrontHair.004_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.005
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.005/FrontHair.005_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.005/FrontHair.005_end/FrontHair.005_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.005/FrontHair.005_end/FrontHair.005_end_end/FrontHair.005_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.006
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.006/FrontHair.006_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.006/FrontHair.006_end/FrontHair.006_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.006/FrontHair.006_end/FrontHair.006_end_end/FrontHair.006_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.006.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.006.L/FrontHair.006.L_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.006.L/FrontHair.006.L_end/FrontHair.006.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.006.L/FrontHair.006.L_end/FrontHair.006.L_end_end/FrontHair.006.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.006.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.006.R/FrontHair.006.R_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.006.R/FrontHair.006.R_end/FrontHair.006.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.006.R/FrontHair.006.R_end/FrontHair.006.R_end_end/FrontHair.006.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.007
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.007/FrontHair.007_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.007/FrontHair.007_end/FrontHair.007_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.007/FrontHair.007_end/FrontHair.007_end_end/FrontHair.007_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.009
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.009/FrontHair.009_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.009/FrontHair.009_end/FrontHair.009_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.009/FrontHair.009_end/FrontHair.009_end_end/FrontHair.009_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.010.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.010.L/FrontHair.010.L_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.010.L/FrontHair.010.L_end/FrontHair.010.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.010.L/FrontHair.010.L_end/FrontHair.010.L_end_end/FrontHair.010.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.010.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.010.R/FrontHair.010.R_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.010.R/FrontHair.010.R_end/FrontHair.010.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/FrontHair.010.R/FrontHair.010.R_end/FrontHair.010.R_end_end/FrontHair.010.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/Headset
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/Headset/Headset_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/Headset/Headset_end/Headset_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/Headset/Headset_end/Headset_end_end/Headset_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/Left Eye
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/Left Eye/Left Eye_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/Left Eye/Left Eye_end/Left Eye_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/Left Eye/Left Eye_end/Left Eye_end_end/Left
+      Eye_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/Right Eye
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/Right Eye/Right Eye_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/Right Eye/Right Eye_end/Right Eye_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/Right Eye/Right Eye_end/Right Eye_end_end/Right
+      Eye_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.A.005.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.A.005.L/TwinTail.A.006.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.A.005.L/TwinTail.A.006.L/TwinTail.A.007.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.A.005.L/TwinTail.A.006.L/TwinTail.A.007.L/TwinTail.A.008.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.A.005.L/TwinTail.A.006.L/TwinTail.A.007.L/TwinTail.A.008.L/TwinTail.A.009.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.A.005.L/TwinTail.A.006.L/TwinTail.A.007.L/TwinTail.A.008.L/TwinTail.A.009.L/TwinTail.A.010.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.A.005.L/TwinTail.A.006.L/TwinTail.A.007.L/TwinTail.A.008.L/TwinTail.A.009.L/TwinTail.A.010.L/TwinTail.A.011.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.A.005.L/TwinTail.A.006.L/TwinTail.A.007.L/TwinTail.A.008.L/TwinTail.A.009.L/TwinTail.A.010.L/TwinTail.A.011.L/TwinTail.A.012.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.A.005.L/TwinTail.A.006.L/TwinTail.A.007.L/TwinTail.A.008.L/TwinTail.A.009.L/TwinTail.A.010.L/TwinTail.A.011.L/TwinTail.A.012.L/TwinTail.A.013.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.A.005.L/TwinTail.A.006.L/TwinTail.A.007.L/TwinTail.A.008.L/TwinTail.A.009.L/TwinTail.A.010.L/TwinTail.A.011.L/TwinTail.A.012.L/TwinTail.A.013.L/TwinTail.A.013.L_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.A.005.L/TwinTail.A.006.L/TwinTail.A.007.L/TwinTail.A.008.L/TwinTail.A.009.L/TwinTail.A.010.L/TwinTail.A.011.L/TwinTail.A.012.L/TwinTail.A.013.L/TwinTail.A.013.L_end/TwinTail.A.013.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.A.005.L/TwinTail.A.006.L/TwinTail.A.007.L/TwinTail.A.008.L/TwinTail.A.009.L/TwinTail.A.010.L/TwinTail.A.011.L/TwinTail.A.012.L/TwinTail.A.013.L/TwinTail.A.013.L_end/TwinTail.A.013.L_end_end/TwinTail.A.013.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.A.005.L/TwinTail.A.006.L/TwinTail.A.007.L/TwinTail.F.001.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.A.005.L/TwinTail.A.006.L/TwinTail.A.007.L/TwinTail.F.001.L/TwinTail.F.002.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.A.005.L/TwinTail.A.006.L/TwinTail.A.007.L/TwinTail.F.001.L/TwinTail.F.002.L/TwinTail.F.003.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.A.005.L/TwinTail.A.006.L/TwinTail.A.007.L/TwinTail.F.001.L/TwinTail.F.002.L/TwinTail.F.003.L/TwinTail.F.004.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.A.005.L/TwinTail.A.006.L/TwinTail.A.007.L/TwinTail.F.001.L/TwinTail.F.002.L/TwinTail.F.003.L/TwinTail.F.004.L/TwinTail.F.005.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.A.005.L/TwinTail.A.006.L/TwinTail.A.007.L/TwinTail.F.001.L/TwinTail.F.002.L/TwinTail.F.003.L/TwinTail.F.004.L/TwinTail.F.005.L/TwinTail.F.006.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.A.005.L/TwinTail.A.006.L/TwinTail.A.007.L/TwinTail.F.001.L/TwinTail.F.002.L/TwinTail.F.003.L/TwinTail.F.004.L/TwinTail.F.005.L/TwinTail.F.006.L/TwinTail.F.006.L_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.A.005.L/TwinTail.A.006.L/TwinTail.A.007.L/TwinTail.F.001.L/TwinTail.F.002.L/TwinTail.F.003.L/TwinTail.F.004.L/TwinTail.F.005.L/TwinTail.F.006.L/TwinTail.F.006.L_end/TwinTail.F.006.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.A.005.L/TwinTail.A.006.L/TwinTail.A.007.L/TwinTail.F.001.L/TwinTail.F.002.L/TwinTail.F.003.L/TwinTail.F.004.L/TwinTail.F.005.L/TwinTail.F.006.L/TwinTail.F.006.L_end/TwinTail.F.006.L_end_end/TwinTail.F.006.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.B.001.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.B.001.L/TwinTail.B.002.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.B.001.L/TwinTail.B.002.L/TwinTail.B.003.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.B.001.L/TwinTail.B.002.L/TwinTail.B.003.L/TwinTail.B.004.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.B.001.L/TwinTail.B.002.L/TwinTail.B.003.L/TwinTail.B.004.L/TwinTail.B.005.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.B.001.L/TwinTail.B.002.L/TwinTail.B.003.L/TwinTail.B.004.L/TwinTail.B.005.L/TwinTail.B.006.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.B.001.L/TwinTail.B.002.L/TwinTail.B.003.L/TwinTail.B.004.L/TwinTail.B.005.L/TwinTail.B.006.L/TwinTail.B.007.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.B.001.L/TwinTail.B.002.L/TwinTail.B.003.L/TwinTail.B.004.L/TwinTail.B.005.L/TwinTail.B.006.L/TwinTail.B.007.L/TwinTail.B.008.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.B.001.L/TwinTail.B.002.L/TwinTail.B.003.L/TwinTail.B.004.L/TwinTail.B.005.L/TwinTail.B.006.L/TwinTail.B.007.L/TwinTail.B.008.L/TwinTail.B.009.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.B.001.L/TwinTail.B.002.L/TwinTail.B.003.L/TwinTail.B.004.L/TwinTail.B.005.L/TwinTail.B.006.L/TwinTail.B.007.L/TwinTail.B.008.L/TwinTail.B.009.L/TwinTail.B.009.L_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.B.001.L/TwinTail.B.002.L/TwinTail.B.003.L/TwinTail.B.004.L/TwinTail.B.005.L/TwinTail.B.006.L/TwinTail.B.007.L/TwinTail.B.008.L/TwinTail.B.009.L/TwinTail.B.009.L_end/TwinTail.B.009.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.B.001.L/TwinTail.B.002.L/TwinTail.B.003.L/TwinTail.B.004.L/TwinTail.B.005.L/TwinTail.B.006.L/TwinTail.B.007.L/TwinTail.B.008.L/TwinTail.B.009.L/TwinTail.B.009.L_end/TwinTail.B.009.L_end_end/TwinTail.B.009.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.C.001.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.C.001.L/TwinTail.C.002.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.C.001.L/TwinTail.C.002.L/TwinTail.C.003.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.C.001.L/TwinTail.C.002.L/TwinTail.C.003.L/TwinTail.C.004.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.C.001.L/TwinTail.C.002.L/TwinTail.C.003.L/TwinTail.C.004.L/TwinTail.C.005.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.C.001.L/TwinTail.C.002.L/TwinTail.C.003.L/TwinTail.C.004.L/TwinTail.C.005.L/TwinTail.C.005.L_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.C.001.L/TwinTail.C.002.L/TwinTail.C.003.L/TwinTail.C.004.L/TwinTail.C.005.L/TwinTail.C.005.L_end/TwinTail.C.005.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.C.001.L/TwinTail.C.002.L/TwinTail.C.003.L/TwinTail.C.004.L/TwinTail.C.005.L/TwinTail.C.005.L_end/TwinTail.C.005.L_end_end/TwinTail.C.005.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.D.001.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.D.001.L/TwinTail.D.002.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.D.001.L/TwinTail.D.002.L/TwinTail.D.003.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.D.001.L/TwinTail.D.002.L/TwinTail.D.003.L/TwinTail.D.004.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.D.001.L/TwinTail.D.002.L/TwinTail.D.003.L/TwinTail.D.004.L/TwinTail.D.005.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.D.001.L/TwinTail.D.002.L/TwinTail.D.003.L/TwinTail.D.004.L/TwinTail.D.005.L/TwinTail.D.006.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.D.001.L/TwinTail.D.002.L/TwinTail.D.003.L/TwinTail.D.004.L/TwinTail.D.005.L/TwinTail.D.006.L/TwinTail.D.007.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.D.001.L/TwinTail.D.002.L/TwinTail.D.003.L/TwinTail.D.004.L/TwinTail.D.005.L/TwinTail.D.006.L/TwinTail.D.007.L/TwinTail.D.008.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.D.001.L/TwinTail.D.002.L/TwinTail.D.003.L/TwinTail.D.004.L/TwinTail.D.005.L/TwinTail.D.006.L/TwinTail.D.007.L/TwinTail.D.008.L/TwinTail.D.008.L_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.D.001.L/TwinTail.D.002.L/TwinTail.D.003.L/TwinTail.D.004.L/TwinTail.D.005.L/TwinTail.D.006.L/TwinTail.D.007.L/TwinTail.D.008.L/TwinTail.D.008.L_end/TwinTail.D.008.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.D.001.L/TwinTail.D.002.L/TwinTail.D.003.L/TwinTail.D.004.L/TwinTail.D.005.L/TwinTail.D.006.L/TwinTail.D.007.L/TwinTail.D.008.L/TwinTail.D.008.L_end/TwinTail.D.008.L_end_end/TwinTail.D.008.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.E.001.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.E.001.L/TwinTail.E.002.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.E.001.L/TwinTail.E.002.L/TwinTail.E.003.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.E.001.L/TwinTail.E.002.L/TwinTail.E.003.L/TwinTail.E.004.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.E.001.L/TwinTail.E.002.L/TwinTail.E.003.L/TwinTail.E.004.L/TwinTail.E.004.L_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.E.001.L/TwinTail.E.002.L/TwinTail.E.003.L/TwinTail.E.004.L/TwinTail.E.004.L_end/TwinTail.E.004.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.L/TwinTail.A.002.L/TwinTail.A.003.L/TwinTail.A.004.L/TwinTail.E.001.L/TwinTail.E.002.L/TwinTail.E.003.L/TwinTail.E.004.L/TwinTail.E.004.L_end/TwinTail.E.004.L_end_end/TwinTail.E.004.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.A.005.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.A.005.R/TwinTail.A.006.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.A.005.R/TwinTail.A.006.R/TwinTail.A.007.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.A.005.R/TwinTail.A.006.R/TwinTail.A.007.R/TwinTail.A.008.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.A.005.R/TwinTail.A.006.R/TwinTail.A.007.R/TwinTail.A.008.R/TwinTail.A.009.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.A.005.R/TwinTail.A.006.R/TwinTail.A.007.R/TwinTail.A.008.R/TwinTail.A.009.R/TwinTail.A.010.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.A.005.R/TwinTail.A.006.R/TwinTail.A.007.R/TwinTail.A.008.R/TwinTail.A.009.R/TwinTail.A.010.R/TwinTail.A.011.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.A.005.R/TwinTail.A.006.R/TwinTail.A.007.R/TwinTail.A.008.R/TwinTail.A.009.R/TwinTail.A.010.R/TwinTail.A.011.R/TwinTail.A.012.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.A.005.R/TwinTail.A.006.R/TwinTail.A.007.R/TwinTail.A.008.R/TwinTail.A.009.R/TwinTail.A.010.R/TwinTail.A.011.R/TwinTail.A.012.R/TwinTail.A.013.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.A.005.R/TwinTail.A.006.R/TwinTail.A.007.R/TwinTail.A.008.R/TwinTail.A.009.R/TwinTail.A.010.R/TwinTail.A.011.R/TwinTail.A.012.R/TwinTail.A.013.R/TwinTail.A.013.R_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.A.005.R/TwinTail.A.006.R/TwinTail.A.007.R/TwinTail.A.008.R/TwinTail.A.009.R/TwinTail.A.010.R/TwinTail.A.011.R/TwinTail.A.012.R/TwinTail.A.013.R/TwinTail.A.013.R_end/TwinTail.A.013.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.A.005.R/TwinTail.A.006.R/TwinTail.A.007.R/TwinTail.A.008.R/TwinTail.A.009.R/TwinTail.A.010.R/TwinTail.A.011.R/TwinTail.A.012.R/TwinTail.A.013.R/TwinTail.A.013.R_end/TwinTail.A.013.R_end_end/TwinTail.A.013.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.A.005.R/TwinTail.A.006.R/TwinTail.A.007.R/TwinTail.F.001.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.A.005.R/TwinTail.A.006.R/TwinTail.A.007.R/TwinTail.F.001.R/TwinTail.F.002.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.A.005.R/TwinTail.A.006.R/TwinTail.A.007.R/TwinTail.F.001.R/TwinTail.F.002.R/TwinTail.F.003.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.A.005.R/TwinTail.A.006.R/TwinTail.A.007.R/TwinTail.F.001.R/TwinTail.F.002.R/TwinTail.F.003.R/TwinTail.F.004.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.A.005.R/TwinTail.A.006.R/TwinTail.A.007.R/TwinTail.F.001.R/TwinTail.F.002.R/TwinTail.F.003.R/TwinTail.F.004.R/TwinTail.F.005.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.A.005.R/TwinTail.A.006.R/TwinTail.A.007.R/TwinTail.F.001.R/TwinTail.F.002.R/TwinTail.F.003.R/TwinTail.F.004.R/TwinTail.F.005.R/TwinTail.F.006.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.A.005.R/TwinTail.A.006.R/TwinTail.A.007.R/TwinTail.F.001.R/TwinTail.F.002.R/TwinTail.F.003.R/TwinTail.F.004.R/TwinTail.F.005.R/TwinTail.F.006.R/TwinTail.F.006.R_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.A.005.R/TwinTail.A.006.R/TwinTail.A.007.R/TwinTail.F.001.R/TwinTail.F.002.R/TwinTail.F.003.R/TwinTail.F.004.R/TwinTail.F.005.R/TwinTail.F.006.R/TwinTail.F.006.R_end/TwinTail.F.006.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.A.005.R/TwinTail.A.006.R/TwinTail.A.007.R/TwinTail.F.001.R/TwinTail.F.002.R/TwinTail.F.003.R/TwinTail.F.004.R/TwinTail.F.005.R/TwinTail.F.006.R/TwinTail.F.006.R_end/TwinTail.F.006.R_end_end/TwinTail.F.006.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.B.001.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.B.001.R/TwinTail.B.002.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.B.001.R/TwinTail.B.002.R/TwinTail.B.003.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.B.001.R/TwinTail.B.002.R/TwinTail.B.003.R/TwinTail.B.004.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.B.001.R/TwinTail.B.002.R/TwinTail.B.003.R/TwinTail.B.004.R/TwinTail.B.005.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.B.001.R/TwinTail.B.002.R/TwinTail.B.003.R/TwinTail.B.004.R/TwinTail.B.005.R/TwinTail.B.006.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.B.001.R/TwinTail.B.002.R/TwinTail.B.003.R/TwinTail.B.004.R/TwinTail.B.005.R/TwinTail.B.006.R/TwinTail.B.007.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.B.001.R/TwinTail.B.002.R/TwinTail.B.003.R/TwinTail.B.004.R/TwinTail.B.005.R/TwinTail.B.006.R/TwinTail.B.007.R/TwinTail.B.008.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.B.001.R/TwinTail.B.002.R/TwinTail.B.003.R/TwinTail.B.004.R/TwinTail.B.005.R/TwinTail.B.006.R/TwinTail.B.007.R/TwinTail.B.008.R/TwinTail.B.009.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.B.001.R/TwinTail.B.002.R/TwinTail.B.003.R/TwinTail.B.004.R/TwinTail.B.005.R/TwinTail.B.006.R/TwinTail.B.007.R/TwinTail.B.008.R/TwinTail.B.009.R/TwinTail.B.009.R_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.B.001.R/TwinTail.B.002.R/TwinTail.B.003.R/TwinTail.B.004.R/TwinTail.B.005.R/TwinTail.B.006.R/TwinTail.B.007.R/TwinTail.B.008.R/TwinTail.B.009.R/TwinTail.B.009.R_end/TwinTail.B.009.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.B.001.R/TwinTail.B.002.R/TwinTail.B.003.R/TwinTail.B.004.R/TwinTail.B.005.R/TwinTail.B.006.R/TwinTail.B.007.R/TwinTail.B.008.R/TwinTail.B.009.R/TwinTail.B.009.R_end/TwinTail.B.009.R_end_end/TwinTail.B.009.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.C.001.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.C.001.R/TwinTail.C.002.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.C.001.R/TwinTail.C.002.R/TwinTail.C.003.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.C.001.R/TwinTail.C.002.R/TwinTail.C.003.R/TwinTail.C.004.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.C.001.R/TwinTail.C.002.R/TwinTail.C.003.R/TwinTail.C.004.R/TwinTail.C.005.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.C.001.R/TwinTail.C.002.R/TwinTail.C.003.R/TwinTail.C.004.R/TwinTail.C.005.R/TwinTail.C.005.R_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.C.001.R/TwinTail.C.002.R/TwinTail.C.003.R/TwinTail.C.004.R/TwinTail.C.005.R/TwinTail.C.005.R_end/TwinTail.C.005.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.C.001.R/TwinTail.C.002.R/TwinTail.C.003.R/TwinTail.C.004.R/TwinTail.C.005.R/TwinTail.C.005.R_end/TwinTail.C.005.R_end_end/TwinTail.C.005.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.D.001.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.D.001.R/TwinTail.D.002.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.D.001.R/TwinTail.D.002.R/TwinTail.D.003.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.D.001.R/TwinTail.D.002.R/TwinTail.D.003.R/TwinTail.D.004.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.D.001.R/TwinTail.D.002.R/TwinTail.D.003.R/TwinTail.D.004.R/TwinTail.D.005.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.D.001.R/TwinTail.D.002.R/TwinTail.D.003.R/TwinTail.D.004.R/TwinTail.D.005.R/TwinTail.D.006.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.D.001.R/TwinTail.D.002.R/TwinTail.D.003.R/TwinTail.D.004.R/TwinTail.D.005.R/TwinTail.D.006.R/TwinTail.D.007.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.D.001.R/TwinTail.D.002.R/TwinTail.D.003.R/TwinTail.D.004.R/TwinTail.D.005.R/TwinTail.D.006.R/TwinTail.D.007.R/TwinTail.D.008.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.D.001.R/TwinTail.D.002.R/TwinTail.D.003.R/TwinTail.D.004.R/TwinTail.D.005.R/TwinTail.D.006.R/TwinTail.D.007.R/TwinTail.D.008.R/TwinTail.D.008.R_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.D.001.R/TwinTail.D.002.R/TwinTail.D.003.R/TwinTail.D.004.R/TwinTail.D.005.R/TwinTail.D.006.R/TwinTail.D.007.R/TwinTail.D.008.R/TwinTail.D.008.R_end/TwinTail.D.008.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.D.001.R/TwinTail.D.002.R/TwinTail.D.003.R/TwinTail.D.004.R/TwinTail.D.005.R/TwinTail.D.006.R/TwinTail.D.007.R/TwinTail.D.008.R/TwinTail.D.008.R_end/TwinTail.D.008.R_end_end/TwinTail.D.008.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.E.001.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.E.001.R/TwinTail.E.002.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.E.001.R/TwinTail.E.002.R/TwinTail.E.003.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.E.001.R/TwinTail.E.002.R/TwinTail.E.003.R/TwinTail.E.004.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.E.001.R/TwinTail.E.002.R/TwinTail.E.003.R/TwinTail.E.004.R/TwinTail.E.004.R_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.E.001.R/TwinTail.E.002.R/TwinTail.E.003.R/TwinTail.E.004.R/TwinTail.E.004.R_end/TwinTail.E.004.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Neck/Head/TwinTail.A.001.R/TwinTail.A.002.R/TwinTail.A.003.R/TwinTail.A.004.R/TwinTail.E.001.R/TwinTail.E.002.R/TwinTail.E.003.R/TwinTail.E.004.R/TwinTail.E.004.R_end/TwinTail.E.004.R_end_end/TwinTail.E.004.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.A.001
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.A.001/Necktie.A.002
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.A.001/Necktie.A.002/Necktie.A.003
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.A.001/Necktie.A.002/Necktie.A.003/Necktie.A.003_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.A.001/Necktie.A.002/Necktie.A.003/Necktie.A.003_end/Necktie.A.003_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.A.001/Necktie.A.002/Necktie.A.003/Necktie.A.003_end/Necktie.A.003_end_end/Necktie.A.003_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.B.001
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.B.001/Necktie.B.002
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.B.001/Necktie.B.002/Necktie.B.003
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.B.001/Necktie.B.002/Necktie.B.003/Necktie.B.004
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.B.001/Necktie.B.002/Necktie.B.003/Necktie.B.004/Necktie.B.004_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.B.001/Necktie.B.002/Necktie.B.003/Necktie.B.004/Necktie.B.004_end/Necktie.B.004_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.B.001/Necktie.B.002/Necktie.B.003/Necktie.B.004/Necktie.B.004_end/Necktie.B.004_end_end/Necktie.B.004_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.C.001
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.C.001/Necktie.C.002
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.C.001/Necktie.C.002/Necktie.C.003
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.C.001/Necktie.C.002/Necktie.C.003/Necktie.C.004
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.C.001/Necktie.C.002/Necktie.C.003/Necktie.C.004/Necktie.C.005
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.C.001/Necktie.C.002/Necktie.C.003/Necktie.C.004/Necktie.C.005/Necktie.C.005_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.C.001/Necktie.C.002/Necktie.C.003/Necktie.C.004/Necktie.C.005/Necktie.C.005_end/Necktie.C.005_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.C.001/Necktie.C.002/Necktie.C.003/Necktie.C.004/Necktie.C.005/Necktie.C.005_end/Necktie.C.005_end_end/Necktie.C.005_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.D.001
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.D.001/Necktie.D.002
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.D.001/Necktie.D.002/Necktie.D.003
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.D.001/Necktie.D.002/Necktie.D.003/Necktie.D.004
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.D.001/Necktie.D.002/Necktie.D.003/Necktie.D.004/Necktie.D.005
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.D.001/Necktie.D.002/Necktie.D.003/Necktie.D.004/Necktie.D.005/Necktie.D.005_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.D.001/Necktie.D.002/Necktie.D.003/Necktie.D.004/Necktie.D.005/Necktie.D.005_end/Necktie.D.005_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Necktie.D.001/Necktie.D.002/Necktie.D.003/Necktie.D.004/Necktie.D.005/Necktie.D.005_end/Necktie.D.005_end_end/Necktie.D.005_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Arm Cover A.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Arm Cover A.L/Arm
+      Cover A.L_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Arm Cover A.L/Arm
+      Cover A.L_end/Arm Cover A.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Arm Cover A.L/Arm
+      Cover A.L_end/Arm Cover A.L_end_end/Arm Cover A.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Arm Cover B.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Arm Cover B.L/Arm
+      Cover B.L_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Arm Cover B.L/Arm
+      Cover B.L_end/Arm Cover B.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Arm Cover B.L/Arm
+      Cover B.L_end/Arm Cover B.L_end_end/Arm Cover B.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Arm Cover C.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Arm Cover C.L/Arm
+      Cover C.L_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Arm Cover C.L/Arm
+      Cover C.L_end/Arm Cover C.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Arm Cover C.L/Arm
+      Cover C.L_end/Arm Cover C.L_end_end/Arm Cover C.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Arm Cover D.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Arm Cover D.L/Arm
+      Cover D.L_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Arm Cover D.L/Arm
+      Cover D.L_end/Arm Cover D.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Arm Cover D.L/Arm
+      Cover D.L_end/Arm Cover D.L_end_end/Arm Cover D.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Index Proximal.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Index Proximal.L/Index
+      Intermediate.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Index Proximal.L/Index
+      Intermediate.L/Index Distal.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Index Proximal.L/Index
+      Intermediate.L/Index Distal.L/Index Distal.L_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Index Proximal.L/Index
+      Intermediate.L/Index Distal.L/Index Distal.L_end/Index Distal.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Index Proximal.L/Index
+      Intermediate.L/Index Distal.L/Index Distal.L_end/Index Distal.L_end_end/Index
+      Distal.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Little Proximal.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Little Proximal.L/Little
+      Intermediate.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Little Proximal.L/Little
+      Intermediate.L/Little Distal.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Little Proximal.L/Little
+      Intermediate.L/Little Distal.L/Little Distal.L_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Little Proximal.L/Little
+      Intermediate.L/Little Distal.L/Little Distal.L_end/Little Distal.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Little Proximal.L/Little
+      Intermediate.L/Little Distal.L/Little Distal.L_end/Little Distal.L_end_end/Little
+      Distal.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Middle Proximal.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Middle Proximal.L/Middle
+      Intermediate.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Middle Proximal.L/Middle
+      Intermediate.L/Middle Distal.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Middle Proximal.L/Middle
+      Intermediate.L/Middle Distal.L/Middle Distal.L_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Middle Proximal.L/Middle
+      Intermediate.L/Middle Distal.L/Middle Distal.L_end/Middle Distal.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Middle Proximal.L/Middle
+      Intermediate.L/Middle Distal.L/Middle Distal.L_end/Middle Distal.L_end_end/Middle
+      Distal.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Negi.001.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Negi.001.L/Negi.002.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Negi.001.L/Negi.002.L/Negi.002.L_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Negi.001.L/Negi.002.L/Negi.002.L_end/Negi.002.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Negi.001.L/Negi.002.L/Negi.002.L_end/Negi.002.L_end_end/Negi.002.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Ring Proximal.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Ring Proximal.L/Ring
+      Intermediate.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Ring Proximal.L/Ring
+      Intermediate.L/Ring Distal.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Ring Proximal.L/Ring
+      Intermediate.L/Ring Distal.L/Ring Distal.L_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Ring Proximal.L/Ring
+      Intermediate.L/Ring Distal.L/Ring Distal.L_end/Ring Distal.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Ring Proximal.L/Ring
+      Intermediate.L/Ring Distal.L/Ring Distal.L_end/Ring Distal.L_end_end/Ring Distal.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Thumb Proximal.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Thumb Proximal.L/Thumb
+      Intermediate.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Thumb Proximal.L/Thumb
+      Intermediate.L/Thumb Distal.L
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Thumb Proximal.L/Thumb
+      Intermediate.L/Thumb Distal.L/Thumb Distal.L_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Thumb Proximal.L/Thumb
+      Intermediate.L/Thumb Distal.L/Thumb Distal.L_end/Thumb Distal.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Arm.L/Hand.L/Thumb Proximal.L/Thumb
+      Intermediate.L/Thumb Distal.L/Thumb Distal.L_end/Thumb Distal.L_end_end/Thumb
+      Distal.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Arm Cover A.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Arm Cover A.R/Arm
+      Cover A.R_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Arm Cover A.R/Arm
+      Cover A.R_end/Arm Cover A.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Arm Cover A.R/Arm
+      Cover A.R_end/Arm Cover A.R_end_end/Arm Cover A.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Arm Cover B.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Arm Cover B.R/Arm
+      Cover B.R_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Arm Cover B.R/Arm
+      Cover B.R_end/Arm Cover B.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Arm Cover B.R/Arm
+      Cover B.R_end/Arm Cover B.R_end_end/Arm Cover B.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Arm Cover C.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Arm Cover C.R/Arm
+      Cover C.R_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Arm Cover C.R/Arm
+      Cover C.R_end/Arm Cover C.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Arm Cover C.R/Arm
+      Cover C.R_end/Arm Cover C.R_end_end/Arm Cover C.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Arm Cover D.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Arm Cover D.R/Arm
+      Cover D.R_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Arm Cover D.R/Arm
+      Cover D.R_end/Arm Cover D.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Arm Cover D.R/Arm
+      Cover D.R_end/Arm Cover D.R_end_end/Arm Cover D.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Index Proximal.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Index Proximal.R/Index
+      Intermediate.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Index Proximal.R/Index
+      Intermediate.R/Index Distal.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Index Proximal.R/Index
+      Intermediate.R/Index Distal.R/Index Distal.R_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Index Proximal.R/Index
+      Intermediate.R/Index Distal.R/Index Distal.R_end/Index Distal.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Index Proximal.R/Index
+      Intermediate.R/Index Distal.R/Index Distal.R_end/Index Distal.R_end_end/Index
+      Distal.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Little Proximal.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Little Proximal.R/Little
+      Intermediate.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Little Proximal.R/Little
+      Intermediate.R/Little Distal.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Little Proximal.R/Little
+      Intermediate.R/Little Distal.R/Little Distal.R_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Little Proximal.R/Little
+      Intermediate.R/Little Distal.R/Little Distal.R_end/Little Distal.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Little Proximal.R/Little
+      Intermediate.R/Little Distal.R/Little Distal.R_end/Little Distal.R_end_end/Little
+      Distal.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Middle Proximal.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Middle Proximal.R/Middle
+      Intermediate.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Middle Proximal.R/Middle
+      Intermediate.R/Middle Distal.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Middle Proximal.R/Middle
+      Intermediate.R/Middle Distal.R/Middle Distal.R_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Middle Proximal.R/Middle
+      Intermediate.R/Middle Distal.R/Middle Distal.R_end/Middle Distal.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Middle Proximal.R/Middle
+      Intermediate.R/Middle Distal.R/Middle Distal.R_end/Middle Distal.R_end_end/Middle
+      Distal.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Negi.001.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Negi.001.R/Negi.002.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Negi.001.R/Negi.002.R/Negi.002.R_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Negi.001.R/Negi.002.R/Negi.002.R_end/Negi.002.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Negi.001.R/Negi.002.R/Negi.002.R_end/Negi.002.R_end_end/Negi.002.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Ring Proximal.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Ring Proximal.R/Ring
+      Intermediate.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Ring Proximal.R/Ring
+      Intermediate.R/Ring Distal.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Ring Proximal.R/Ring
+      Intermediate.R/Ring Distal.R/Ring Distal.R_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Ring Proximal.R/Ring
+      Intermediate.R/Ring Distal.R/Ring Distal.R_end/Ring Distal.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Ring Proximal.R/Ring
+      Intermediate.R/Ring Distal.R/Ring Distal.R_end/Ring Distal.R_end_end/Ring Distal.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Thumb Proximal.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Thumb Proximal.R/Thumb
+      Intermediate.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Thumb Proximal.R/Thumb
+      Intermediate.R/Thumb Distal.R
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Thumb Proximal.R/Thumb
+      Intermediate.R/Thumb Distal.R/Thumb Distal.R_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Thumb Proximal.R/Thumb
+      Intermediate.R/Thumb Distal.R/Thumb Distal.R_end/Thumb Distal.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Spine/Chest/Shoulder.R/Upper Arm.R/Lower Arm.R/Hand.R/Thumb Proximal.R/Thumb
+      Intermediate.R/Thumb Distal.R/Thumb Distal.R_end/Thumb Distal.R_end_end/Thumb
+      Distal.R_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Upper Leg.L
+    m_Weight: 1
+  - m_Path: Hips/Upper Leg.L/Lower Leg.L
+    m_Weight: 1
+  - m_Path: Hips/Upper Leg.L/Lower Leg.L/Foot.L
+    m_Weight: 1
+  - m_Path: Hips/Upper Leg.L/Lower Leg.L/Foot.L/Toes.L
+    m_Weight: 1
+  - m_Path: Hips/Upper Leg.L/Lower Leg.L/Foot.L/Toes.L/Toes.L_end
+    m_Weight: 1
+  - m_Path: Hips/Upper Leg.L/Lower Leg.L/Foot.L/Toes.L/Toes.L_end/Toes.L_end_end
+    m_Weight: 1
+  - m_Path: Hips/Upper Leg.L/Lower Leg.L/Foot.L/Toes.L/Toes.L_end/Toes.L_end_end/Toes.L_end_end_end
+    m_Weight: 1
+  - m_Path: Hips/Upper Leg.R
+    m_Weight: 1
+  - m_Path: Hips/Upper Leg.R/Lower Leg.R
+    m_Weight: 1
+  - m_Path: Hips/Upper Leg.R/Lower Leg.R/Foot.R
+    m_Weight: 1
+  - m_Path: Hips/Upper Leg.R/Lower Leg.R/Foot.R/Toes.R
+    m_Weight: 1
+  - m_Path: Hips/Upper Leg.R/Lower Leg.R/Foot.R/Toes.R/Toes.R_end
+    m_Weight: 1
+  - m_Path: Hips/Upper Leg.R/Lower Leg.R/Foot.R/Toes.R/Toes.R_end/Toes.R_end_end
+    m_Weight: 1
+  - m_Path: Hips/Upper Leg.R/Lower Leg.R/Foot.R/Toes.R/Toes.R_end/Toes.R_end_end/Toes.R_end_end_end
+    m_Weight: 1
+  - m_Path: IK_ctr_H_L
+    m_Weight: 1
+  - m_Path: IK_ctr_H_L/IK_ctr_H_L_end
+    m_Weight: 1
+  - m_Path: IK_ctr_H_R
+    m_Weight: 1
+  - m_Path: IK_ctr_H_R/IK_ctr_H_R_end
+    m_Weight: 1
+  - m_Path: IK_ctr_S_L
+    m_Weight: 1
+  - m_Path: IK_ctr_S_L/IK_ctr_S_L_end
+    m_Weight: 1
+  - m_Path: IK_ctr_S_R
+    m_Weight: 1
+  - m_Path: IK_ctr_S_R/IK_ctr_S_R_end
+    m_Weight: 1
