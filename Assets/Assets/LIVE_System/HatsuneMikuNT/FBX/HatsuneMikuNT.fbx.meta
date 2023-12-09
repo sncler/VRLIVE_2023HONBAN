@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 9c07cd4e1ef6a2a49a1c212c15237ef8
 ModelImporter:
-  serializedVersion: 19301
+  serializedVersion: 21202
   internalIDToNameTable: []
   externalObjects: {}
   materials:
@@ -14,6 +14,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -22,7 +23,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
-    importConstraints: 0
+    importConstraints: 1
     animationCompression: 3
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -43,21 +44,27 @@ ModelImporter:
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 0
     fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
     skinWeightsMode: 0
     maxBonesPerVertex: 4
     minBoneWeight: 0.001
+    optimizeBones: 1
     meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
   tangentSpace:
@@ -1495,8 +1502,7 @@ ModelImporter:
     - name: Upper Arm.R
       parentName: Shoulder.R
       position: {x: -1.8170535e-10, y: 0.0361972, z: 0.000000051328374}
-      rotation: {x: -0.0000000030965948, y: -0.0018548097, z: -0.0000000017898338,
-        w: 0.9999983}
+      rotation: {x: -0.0000000030965948, y: -0.0018548097, z: -0.0000000017898338, w: 0.9999983}
       scale: {x: 0.99999994, y: 1, z: 1}
     - name: Lower Arm.R
       parentName: Upper Arm.R
@@ -2215,6 +2221,7 @@ ModelImporter:
   animationType: 3
   humanoidOversampling: 1
   avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
